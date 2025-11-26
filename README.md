@@ -8,12 +8,6 @@ enjoy creating beautiful, functional, and user-friendly web experiences.
 
 - **College:** Bachelor of Science in Computer Science
   - New Era University (2024 – Present)  
-- **Senior High School:** Science, Technology, Engineering, and Mathematics (STEM)
-  - Lagro High School (2022 – 2024)  
-- **High School**  
-  - Lagro High School (2018 – 2022)  
-- **Elementary  School**
-  - Delfin M. Geraldez (2011 – 2018)
   
 ## Certifications
 
