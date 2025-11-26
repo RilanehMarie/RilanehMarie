@@ -19,9 +19,9 @@ enjoy creating beautiful, functional, and user-friendly web experiences.
 
 **Programming Languages:**  Java, SQL, HTML
 
-**Databases:**  IBM DB2 Cloud, Supabase, MongoDB
+**Databases:**  IBM DB2 Cloud
 
-**Tools & Technologies:**  React, Node.js, Lucidchart, Figma, Canva
+**Tools & Technologies:** Lucidchart, Canva
 
 ## Let's Connect!
 
