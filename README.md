@@ -14,6 +14,7 @@ enjoy creating beautiful, functional, and user-friendly web experiences.
 | Certificate Title | Issued by | Year |
 |-------|-----------|------|
 | [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/575e3a0d38d4401597c681a1089fecb7) | Cognitive Class Ai | 2025 |
+| [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=9A21C1A170F27CA4CA4EB52E9FE41171FB85E14AEFF460C3BAB61EE482398A70) | Oracle | 2025 |
 
 ## Skillsets
 
